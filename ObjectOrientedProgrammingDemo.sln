@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex01_Access Modifiers", "Ex01_Access Modifiers", "{728DFB26-F287-454C-BB74-A22AB9838BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex011_AccessModifiers", "Ex011_AccessModifiers\Ex011_AccessModifiers.csproj", "{1CB50858-9FC0-4234-AD8D-A90A49559C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB50858-9FC0-4234-AD8D-A90A49559C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB50858-9FC0-4234-AD8D-A90A49559C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB50858-9FC0-4234-AD8D-A90A49559C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB50858-9FC0-4234-AD8D-A90A49559C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1CB50858-9FC0-4234-AD8D-A90A49559C16} = {728DFB26-F287-454C-BB74-A22AB9838BCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9064B07F-9580-4C59-A346-6C5CAF1AE21E}
+	EndGlobalSection
+EndGlobal
