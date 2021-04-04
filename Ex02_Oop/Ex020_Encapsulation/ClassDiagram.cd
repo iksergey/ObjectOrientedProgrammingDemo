@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex020_Encapsulation.Infrastructure.Ability" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Ability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex020_Encapsulation.Infrastructure.Backpack" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Backpack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex020_Encapsulation.Infrastructure.Item" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex020_Encapsulation.Infrastructure.Randomize" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Randomize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex020_Encapsulation.Program" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex020_Encapsulation.Windranger" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAAACAEBAAAAAQQQAIlIAAAJQCAAJEAAACk=</HashCode>
+      <FileName>Windranger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ex020_Encapsulation.Infrastructure.HeroType" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Infrastructure\HeroType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

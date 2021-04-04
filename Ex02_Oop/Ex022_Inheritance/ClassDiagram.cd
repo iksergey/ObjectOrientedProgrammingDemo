@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex023_Inheritance.Items.GameItem" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\GameItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Items.Item" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Items.NeutralItem" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\NeutralItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Items.NullItem" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\NullItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Items.PortalItem" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\PortalItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Abilitys.Ability" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAQAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abilitys\Ability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Abilitys.AbilityNotLearned" Collapsed="true">
+    <Position X="2" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abilitys\AbilityNotLearned.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Abilitys.HeroAbility" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abilitys\HeroAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Heroes.Axe">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAAACAEBAAAAAQQQAIlIAAAJQCAAJEAAACk=</HashCode>
+      <FileName>Heroes\Axe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Heroes.Ursa">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAAACAEBAAAAAQQQAIlIAAAJQCAAJEAAACk=</HashCode>
+      <FileName>Heroes\Ursa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Heroes.Zeus">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAKAAAAAAACAEBAAAAAQQQAIlIAAAJQCAAJEAAACk=</HashCode>
+      <FileName>Heroes\Zeus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.Infrastructure.Randomize">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Randomize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex023_Inheritance.BackpackComposition.Backpack">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAJAIAAAAAAAA=</HashCode>
+      <FileName>BackpackComposition\Backpack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ex023_Inheritance.Heroes.HeroType">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Heroes\HeroType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

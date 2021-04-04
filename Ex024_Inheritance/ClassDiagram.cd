@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex024_Inheritance.Agility.AgilityHero" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Ex024_Inheritance.Heroes.Hero" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.688" Y="1.096" />
+        <Point X="1.688" Y="2.125" />
+        <Point X="2" Y="2.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Agility\AgilityHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Agility.AntiMag" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Agility\AntiMag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Agility.ArcWaeden" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Agility\ArcWaeden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Agility.Bloodseeker" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Agility\Bloodseeker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Agility.BountyHunter" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Agility\BountyHunter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Agility.Broodmother" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Agility\Broodmother.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Intelligence.AncientApparition" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Intelligence\AncientApparition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Intelligence.Bane" Collapsed="true">
+    <Position X="6.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Intelligence\Bane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Intelligence.Batrider" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Intelligence\Batrider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Intelligence.Chen" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Intelligence\Chen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Intelligence.CrystalMaiden" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Intelligence\CrystalMaiden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Intelligence.IntelligenceHero" Collapsed="true">
+    <Position X="2" Y="4" Width="1.75" />
+    <InheritanceLine Type="Ex024_Inheritance.Heroes.Hero" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.188" Y="1.096" />
+        <Point X="1.188" Y="4.312" />
+        <Point X="2" Y="4.312" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Intelligence\IntelligenceHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Strength.Abaddon" Collapsed="true">
+    <Position X="6.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Strength\Abaddon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Strength.Alchemist" Collapsed="true">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Strength\Alchemist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Strength.Axe" Collapsed="true">
+    <Position X="9.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Strength\Axe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Strength.Beastmaster" Collapsed="true">
+    <Position X="2.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Strength\Beastmaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Strength.Brewmaster" Collapsed="true">
+    <Position X="4.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Strength\Brewmaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Strength.StrengthHero" Collapsed="true">
+    <Position X="2" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="Ex024_Inheritance.Heroes.Hero" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="0.625" Y="1.096" />
+        <Point X="0.625" Y="6.812" />
+        <Point X="2" Y="6.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Strength\StrengthHero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex024_Inheritance.Heroes.Hero" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heroes\Hero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
